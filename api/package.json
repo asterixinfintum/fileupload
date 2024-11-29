@@ -1,0 +1,16 @@
+{
+  "name": "fileuploadserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
